@@ -1,2 +1,1 @@
-# hello-word
-TestRepo
+This is just a test from my side.
